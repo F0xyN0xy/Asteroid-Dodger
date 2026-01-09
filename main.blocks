@@ -1,0 +1,3 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="h9w,a5Y2nb~FvjO=pIb@">playerX</variable><variable id=";ZoaZs`@pVc@6VZ^1_B{">i</variable><variable id="Xn6*lv*?$Y;#{RU;N){b">asteroidsX</variable><variable id="DJq0dz3j~V[Q;%|f3j=k">asteroidsY</variable><variable id="O4dKK:/7{NTWp`8w/][%">running</variable><variable id="AXo`3,JF,2/.O-:O_DiA">mode</variable><variable id="VmkDTn+Vh(!rL.L7M+2l">highSpeed</variable><variable id="];L=^^0A,Fsf,6td5PDf">highMulti</variable><variable id="MGYR]N#f(ZwVDoCzj84i">score</variable><variable id="I=o]XhSl8fiuGw}G`Bau">speed</variable><variable id="G7d,C6LVGYR`6z]bi$DA">j</variable></variables><comment id="X5P$p{}+l%|?3O1f9lDN" x="0" y="2120" w="240" h="120">
+0=Menu, 1=Speed, 2=Multi
+</comment></xml>
